@@ -1,0 +1,54 @@
+TECHSHOP CUSTOMER SUPPORT KNOWLEDGE BASE
+
+Company:
+TechShop is an online electronics store that sells laptops,
+smartphones, headphones, tablets, and other electronic products.
+
+ORDER AND DELIVERY:
+
+1. Standard delivery takes 3 to 5 business days.
+
+2. Express delivery takes 1 to 2 business days.
+
+3. Customers can check their order status using their order ID.
+
+4. Delivery is available across India.
+
+RETURNS:
+
+5. Customers can return eligible products within 7 days of delivery.
+
+6. Products must be unused and should have the original packaging.
+
+7. Some products may not be eligible for return.
+
+REFUNDS:
+
+8. Refunds are normally processed within 5 to 7 business days after
+the returned product has been inspected.
+
+9. The refund is sent to the original payment method.
+
+DAMAGED PRODUCTS:
+
+10. If a product arrives damaged, the customer should contact
+customer support within 48 hours.
+
+11. Customers may be eligible for a replacement or refund
+after verification.
+
+PAYMENTS:
+
+12. TechShop accepts credit cards, debit cards, UPI and
+Cash on Delivery.
+
+13. Cash on Delivery is available for orders below ₹10,000.
+
+SUPPORT:
+
+14. Customers should provide their order ID when asking about
+a specific order.
+
+15. If the AI cannot answer a question using the available
+company information, it should tell the customer that the issue
+needs to be handled by human support.
